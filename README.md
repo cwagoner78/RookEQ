@@ -28,7 +28,7 @@ There is no public download or announced release date. This repository is the pu
 - [Quick start and controls](docs/user-guide.md)
 - [Interface screenshots](docs/screenshots.md)
 - [Support and bug reports](SUPPORT.md)
-- [Report a bug](https://github.com/cwagoner78/rook-eq-public/issues/new?template=bug_report.yml)
-- [Suggest a feature](https://github.com/cwagoner78/rook-eq-public/issues/new?template=feature_request.yml)
+- [Report a bug](https://github.com/cwagoner78/RookEQ/issues/new?template=bug_report.yml)
+- [Suggest a feature](https://github.com/cwagoner78/RookEQ/issues/new?template=feature_request.yml)
 
 Copyright 2026 Red Rook Audio. All rights reserved.

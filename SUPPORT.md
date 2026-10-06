@@ -4,7 +4,7 @@ Rook EQ is in development for Windows, 64-bit VST3. Public downloads and a relea
 
 ## Report a bug
 
-[Open a bug report](https://github.com/cwagoner78/rook-eq-public/issues/new?template=bug_report.yml) and include:
+[Open a bug report](https://github.com/cwagoner78/RookEQ/issues/new?template=bug_report.yml) and include:
 
 - Rook EQ version or build date.
 - DAW name and version, and Windows version.
@@ -18,6 +18,6 @@ GitHub issues are public. Remove personal information from attachments and share
 
 ## Suggest a feature
 
-[Open a feature request](https://github.com/cwagoner78/rook-eq-public/issues/new?template=feature_request.yml). Describe the mixing task you want to accomplish and how the proposed change would help.
+[Open a feature request](https://github.com/cwagoner78/RookEQ/issues/new?template=feature_request.yml). Describe the mixing task you want to accomplish and how the proposed change would help.
 
 [Back to Rook EQ](README.md)
