@@ -2,16 +2,10 @@
 
 Development previews of Rook EQ in the Gauge theme. These captures show the plugin interface with example settings; the meter levels are illustrative.
 
-## Working with bands
+## Dynamic Mid/Side processing
 
-Two bands on the response curve, with controls for the selected band below the graph.
+A Gauge-theme session with active spectrum analysis, multiple EQ bands, and the selected band's dynamics controls open.
 
-![Rook EQ with a low-mid cut and an upper-mid boost](../assets/rook-eq-interface.png)
-
-## Starting a session
-
-The default view opens with no active bands. Input and output trims, Stereo/Mid/Side views, and analyzer controls remain within reach.
-
-![Rook EQ default view with a flat response and no active bands](../assets/rook-eq-default.png)
+![Rook EQ showing active spectrum analysis, multiple bands, and dynamics controls](../assets/rook-eq-interface.png)
 
 [Read the quick start](user-guide.md)

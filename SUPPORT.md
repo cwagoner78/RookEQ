@@ -1,6 +1,14 @@
 # Support
 
-Rook EQ is in development for Windows, 64-bit VST3. Public downloads and a release date have not been announced.
+Rook EQ is in private alpha testing for Windows, 64-bit VST3. No release date has been announced.
+
+## Alpha testing
+
+[Request alpha access](https://github.com/cwagoner78/RookEQ/issues/new?template=alpha_tester.yml).
+
+Accepted testers receive a private installer link and private diagnostic-log upload instructions. The alpha is unfinished, currently unsigned, and intended for testing rather than production sessions.
+
+Diagnostic logs may contain local file paths and system details. Review the files before uploading them.
 
 ## Report a bug
 
@@ -15,6 +23,8 @@ Rook EQ is in development for Windows, 64-bit VST3. Public downloads and a relea
 For an interface problem, include display scaling and the number of open plugin windows. For a dynamics problem, note whether you used an external sidechain.
 
 GitHub issues are public. Remove personal information from attachments and share only audio you have permission to publish.
+
+Do not attach diagnostic log ZIPs to a GitHub issue. Use the private upload link supplied with alpha access.
 
 ## Suggest a feature
 

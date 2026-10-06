@@ -19,9 +19,13 @@ Shape a track, control a problem frequency, or work on the center and sides of a
 
 ## Availability
 
-Rook EQ is in development. The current release target is **Windows, 64-bit VST3**.
+Rook EQ is in private alpha testing for **Windows, 64-bit VST3**.
 
-There is no public download or announced release date. This repository is the public home for product information, documentation, and feedback. The plugin's source code is private.
+[Request alpha access](https://github.com/cwagoner78/RookEQ/issues/new?template=alpha_tester.yml)
+
+Alpha builds are unfinished and intended for testing, not production sessions. Accepted testers receive the private installer and diagnostic-log upload instructions.
+
+No release date has been announced. This repository is the public home for product information, documentation, and feedback. The plugin's source code is private.
 
 ## Documentation and feedback
 
