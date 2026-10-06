@@ -25,6 +25,7 @@ There is no public download or announced release date. This repository is the pu
 
 ## Documentation and feedback
 
+- [Website](https://redrookaudio.com)
 - [Quick start and controls](docs/user-guide.md)
 - [Interface screenshots](docs/screenshots.md)
 - [Support and bug reports](SUPPORT.md)
