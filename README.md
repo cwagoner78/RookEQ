@@ -21,9 +21,11 @@ Shape a track, control a problem frequency, or work on the center and sides of a
 
 Rook EQ is in private alpha testing for **Windows, 64-bit VST3**.
 
-[![Request alpha access](assets/request-alpha-access.svg)](https://github.com/cwagoner78/RookEQ/issues/new?template=alpha_tester.yml)
+[![Request alpha access](assets/request-alpha-access.svg)](https://cwagoner78.gumroad.com/l/rook-eq-alpha-testing)
 
-Alpha builds are unfinished and intended for testing, not production sessions. Accepted testers receive the private installer and diagnostic-log upload instructions.
+Applications are submitted through Gumroad so Red Rook Audio can collect contact details and test-environment information. Submitting does not guarantee access. Accepted testers receive the private installer and diagnostic-log upload instructions.
+
+Alpha builds are unfinished and intended for testing, not production sessions.
 
 No release date has been announced. This repository is the public home for product information, documentation, and feedback. The plugin's source code is private.
 

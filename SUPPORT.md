@@ -4,7 +4,9 @@ Rook EQ is in private alpha testing for Windows, 64-bit VST3. No release date ha
 
 ## Alpha testing
 
-[Request alpha access](https://github.com/cwagoner78/RookEQ/issues/new?template=alpha_tester.yml).
+[Request alpha access](https://cwagoner78.gumroad.com/l/rook-eq-alpha-testing).
+
+The Gumroad application collects contact details and test-environment information. Submitting does not guarantee access.
 
 Accepted testers receive a private installer link and private diagnostic-log upload instructions. The alpha is unfinished, currently unsigned, and intended for testing rather than production sessions.
 
