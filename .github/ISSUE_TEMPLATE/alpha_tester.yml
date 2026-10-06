@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for volunteering to test Rook EQ. Requests are public. Do not include email addresses, diagnostic logs, license information, or other private data here.
+        Thanks for volunteering to test Rook EQ. Requests are public. Do not include email addresses, diagnostic logs, license information, or other private data here. Approved testers are invited to a separate private, source-free GitHub repository for the installer and test reports.
   - type: input
     id: daw
     attributes:

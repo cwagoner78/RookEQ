@@ -4,7 +4,7 @@
 
 Shape a track, control a problem frequency, or work on the center and sides of a mix. Rook EQ brings direct curve editing, dynamic bands, and band listening into one interface.
 
-![Rook EQ showing two bands in the Gauge theme](assets/rook-eq-interface.png)
+![Rook EQ showing active spectrum analysis, multiple bands, and dynamics controls](assets/rook-eq-interface.png)
 
 *Development preview with example EQ settings and meter levels.*
 
@@ -21,7 +21,7 @@ Shape a track, control a problem frequency, or work on the center and sides of a
 
 Rook EQ is in private alpha testing for **Windows, 64-bit VST3**.
 
-[Request alpha access](https://github.com/cwagoner78/RookEQ/issues/new?template=alpha_tester.yml)
+[![Request alpha access](assets/request-alpha-access.svg)](https://github.com/cwagoner78/RookEQ/issues/new?template=alpha_tester.yml)
 
 Alpha builds are unfinished and intended for testing, not production sessions. Accepted testers receive the private installer and diagnostic-log upload instructions.
 
