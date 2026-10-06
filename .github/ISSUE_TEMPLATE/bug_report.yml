@@ -37,4 +37,4 @@ body:
     id: attachments
     attributes:
       label: Screenshots or other details
-      description: "For UI issues, include display scaling and the number of open plugin windows. Attachments are public."
+      description: "For UI issues, include display scaling and the number of open plugin windows. Attachments are public; use the private tester upload link for diagnostic log ZIPs."
