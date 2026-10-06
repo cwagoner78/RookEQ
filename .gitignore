@@ -1,0 +1,15 @@
+*
+!/.gitignore
+!/README.md
+!/SUPPORT.md
+!/docs/
+/docs/*
+!/docs/*.md
+!/assets/
+/assets/*
+!/assets/*.png
+!/.github/
+/.github/*
+!/.github/ISSUE_TEMPLATE/
+/.github/ISSUE_TEMPLATE/*
+!/.github/ISSUE_TEMPLATE/*.yml

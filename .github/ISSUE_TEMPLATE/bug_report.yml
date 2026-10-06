@@ -1,0 +1,40 @@
+name: Bug report
+description: Report a problem with Rook EQ.
+title: "[Bug] "
+body:
+  - type: input
+    id: build
+    attributes:
+      label: Rook EQ version or build date
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: DAW and Windows versions
+      placeholder: "DAW name/version; Windows version"
+    validations:
+      required: true
+  - type: input
+    id: audio
+    attributes:
+      label: Audio settings
+      placeholder: "Sample rate, buffer size, mono/stereo, external sidechain if used"
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Describe the shortest sequence that shows the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Screenshots or other details
+      description: "For UI issues, include display scaling and the number of open plugin windows. Attachments are public."

@@ -1,0 +1,18 @@
+name: Feature request
+description: Suggest an improvement to Rook EQ.
+title: "[Feature] "
+body:
+  - type: textarea
+    id: task
+    attributes:
+      label: What are you trying to do?
+      description: Describe the mixing task or workflow.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would help?
+      description: Describe the change and why it would be useful.
+    validations:
+      required: true
