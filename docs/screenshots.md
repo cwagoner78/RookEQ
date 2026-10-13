@@ -2,10 +2,10 @@
 
 Development previews of Rook EQ in the Gauge theme. These captures show the plugin interface with example settings; the meter levels are illustrative.
 
-## Dynamic Mid/Side processing
+## Gauge interface
 
-A Gauge-theme session with active spectrum analysis, multiple EQ bands, and the selected band's dynamics controls open.
+A current Gauge-theme session with spectrum analysis, two EQ bands, and the selected band's controls. The interface uses the updated Rook EQ lettering and the original Red Rook accent.
 
-![Rook EQ showing active spectrum analysis, multiple bands, and dynamics controls](../assets/rook-eq-interface.png)
+![Current Rook EQ Gauge interface with red branding, spectrum analysis, two EQ bands, and selected-band controls](../assets/rook-eq-interface.png)
 
 [Read the quick start](user-guide.md)
