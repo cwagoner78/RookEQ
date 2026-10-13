@@ -8,6 +8,7 @@
 !/assets/
 /assets/*
 !/assets/*.png
+!/assets/rook-eq-brand.jpg
 !/.github/
 /.github/*
 !/.github/ISSUE_TEMPLATE/

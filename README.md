@@ -1,10 +1,12 @@
+[![Rook EQ by Red Rook Audio, with the Spectral Ribbon artwork and current plugin lettering](assets/rook-eq-brand.jpg)](https://redrookaudio.com)
+
 # Rook EQ
 
 **A 12-band dynamic equalizer by Red Rook Audio.**
 
 Shape a track, control a problem frequency, or work on the center and sides of a mix. Rook EQ brings direct curve editing, dynamic bands, and band listening into one interface.
 
-![Rook EQ showing active spectrum analysis, multiple bands, and dynamics controls](assets/rook-eq-interface.png)
+![Current Rook EQ Gauge interface with red branding, spectrum analysis, two EQ bands, and selected-band controls](assets/rook-eq-interface.png)
 
 *Development preview with example EQ settings and meter levels.*
 
