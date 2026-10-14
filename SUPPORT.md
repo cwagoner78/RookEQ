@@ -1,20 +1,24 @@
 # Support
 
-Rook EQ is in private alpha testing for Windows, 64-bit VST3. No release date has been announced.
+Rook EQ is in private beta testing for Windows, 64-bit VST3. No release date has been announced.
 
-## Alpha testing
+## Private beta testing
 
-[Request alpha access](https://cwagoner78.gumroad.com/l/rook-eq-alpha-testing).
+[Request beta access](https://cwagoner78.gumroad.com/l/rook-eq-alpha-testing).
 
 The Gumroad application collects contact details and test-environment information. Submitting does not guarantee access.
 
-Accepted testers receive a private installer link and private diagnostic-log upload instructions. The alpha is unfinished, currently unsigned, and intended for testing rather than production sessions.
+Accepted testers receive private build access and testing instructions. Beta builds are unfinished and currently unsigned. Use copies of projects and keep a stable setup available. Focus on project recall, automation, performance, and DAW compatibility.
 
-Diagnostic logs may contain local file paths and system details. Review the files before uploading them.
+## Send a private problem report
+
+In Rook EQ, choose **Settings → Report a problem**. Describe what happened, what you expected, and how to reproduce it. You can attach a PNG screenshot. The plugin sends your description, screenshot, build/host information, audio settings, and diagnostic excerpts from the current and most recent previous session in the same host. No audio or DAW projects are collected. Review your text and screenshot for private information before sending.
+
+A successful submission displays an **RQ-…** receipt. Failed reports remain available for retry; nothing uploads until you choose Send or Retry. There is no manual log upload step. The plugin automatically rotates and removes old local logs.
 
 ## Report a bug
 
-[Open a bug report](https://github.com/cwagoner78/RookEQ/issues/new?template=bug_report.yml) and include:
+Use the in-plugin form for private beta reports. If you want to discuss an issue publicly, [open a bug report](https://github.com/cwagoner78/RookEQ/issues/new?template=bug_report.yml) and include:
 
 - Rook EQ version or build date.
 - DAW name and version, and Windows version.
@@ -26,7 +30,7 @@ For an interface problem, include display scaling and the number of open plugin 
 
 GitHub issues are public. Remove personal information from attachments and share only audio you have permission to publish.
 
-Do not attach diagnostic log ZIPs to a GitHub issue. Use the private upload link supplied with alpha access.
+Do not attach diagnostic log ZIPs to a public GitHub issue. Use the in-plugin form for private diagnostics.
 
 ## Suggest a feature
 

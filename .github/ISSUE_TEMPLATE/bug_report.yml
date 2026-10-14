@@ -2,6 +2,9 @@ name: Bug report
 description: Report a problem with Rook EQ.
 title: "[Bug] "
 body:
+  - type: markdown
+    attributes:
+      value: "Private beta testers: use Settings → Report a problem in Rook EQ to send diagnostics privately. This GitHub form creates a public issue."
   - type: input
     id: build
     attributes:
@@ -37,4 +40,4 @@ body:
     id: attachments
     attributes:
       label: Screenshots or other details
-      description: "For UI issues, include display scaling and the number of open plugin windows. Attachments are public; use the private tester upload link for diagnostic log ZIPs."
+      description: "For UI issues, include display scaling and the number of open plugin windows. Attachments here are public; send diagnostics privately through Settings → Report a problem in Rook EQ."
