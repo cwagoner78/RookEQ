@@ -23,7 +23,7 @@ Shape a track, control a problem frequency, or work on the center and sides of a
 
 Rook EQ is in private beta testing for **Windows, 64-bit VST3**.
 
-[![Request beta access](assets/request-beta-access.svg)](https://cwagoner78.gumroad.com/l/rook-eq-alpha-testing)
+[![Request beta access](assets/request-beta-access.svg)](https://cwagoner78.gumroad.com/l/rook-eq-testing)
 
 Applications are submitted through Gumroad so Red Rook Audio can collect contact details and test-environment information. Submitting does not guarantee access. Accepted testers receive private build access and testing instructions. Send reports and diagnostics privately from **Settings → Report a problem** in the plugin.
 

@@ -4,7 +4,7 @@ Rook EQ is in private beta testing for Windows, 64-bit VST3. No release date has
 
 ## Private beta testing
 
-[Request beta access](https://cwagoner78.gumroad.com/l/rook-eq-alpha-testing).
+[Request beta access](https://cwagoner78.gumroad.com/l/rook-eq-testing).
 
 The Gumroad application collects contact details and test-environment information. Submitting does not guarantee access.
 
