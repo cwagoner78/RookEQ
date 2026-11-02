@@ -1,8 +1,8 @@
-[![Rook EQ by Red Rook Audio, with the Spectral Ribbon artwork and current plugin lettering](assets/rook-eq-brand.jpg)](https://redrookaudio.com)
+[![Rook EQ by Clint Wagoner, with the Spectral Ribbon artwork and current plugin lettering](assets/rook-eq-brand.jpg)](https://cwagoner78.gumroad.com/l/rook-eq-testing)
 
 # Rook EQ
 
-**A 12-band dynamic equalizer by Red Rook Audio.**
+**A 12-band dynamic equalizer by Clint Wagoner.**
 
 Shape a track, control a problem frequency, or work on the center and sides of a mix. Rook EQ brings direct curve editing, dynamic bands, and band listening into one interface.
 
@@ -19,25 +19,25 @@ Shape a track, control a problem frequency, or work on the center and sides of a
 - **Output spectrum analyzer** with adjustable resolution, smoothing, and peak hold.
 - **Presets, input/output trims, and five interface themes.**
 
-## Availability
+## Download
 
-Rook EQ is in private beta testing for **Windows, 64-bit VST3**.
+**Free for Windows, 64-bit VST3. Version 1.1.1.**
 
-[![Request beta access](assets/request-beta-access.svg)](https://cwagoner78.gumroad.com/l/rook-eq-testing)
+[![Free download](assets/free-download.svg)](https://cwagoner78.gumroad.com/l/rook-eq-testing)
 
-Applications are submitted through Gumroad so Red Rook Audio can collect contact details and test-environment information. Submitting does not guarantee access. Accepted testers receive private build access and testing instructions. Send reports and diagnostics privately from **Settings → Report a problem** in the plugin.
+Choose the Windows installer or the manual VST3 ZIP on Gumroad. Enter $0 to download for free. You can leave an optional payment to support the project.
 
-Private beta testing focuses on project recall, automation, performance, and compatibility across DAWs. Beta builds are unfinished; use copies of projects and keep a stable setup available.
+The installer is unsigned. See the included README for Windows security prompts and installation instructions. The ZIP contains a single VST3 file to copy into your VST3 folder.
 
-No release date has been announced. This repository is the public home for product information, documentation, and feedback. The plugin's source code is private.
+Rook EQ is free to use in personal and commercial audio work. The plugin source is private. Support and future updates are not guaranteed.
 
 ## Documentation and feedback
 
-- [Website](https://redrookaudio.com)
+- [Clint Wagoner](https://clintwagoner.com/)
 - [Quick start and controls](docs/user-guide.md)
 - [Interface screenshots](docs/screenshots.md)
 - [Support and bug reports](SUPPORT.md)
 - [Report a bug](https://github.com/cwagoner78/RookEQ/issues/new?template=bug_report.yml)
 - [Suggest a feature](https://github.com/cwagoner78/RookEQ/issues/new?template=feature_request.yml)
 
-Copyright 2026 Red Rook Audio. All rights reserved.
+Copyright 2026 Clint Wagoner. All rights reserved.

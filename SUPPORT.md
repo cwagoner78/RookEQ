@@ -1,24 +1,20 @@
 # Support
 
-Rook EQ is in private beta testing for Windows, 64-bit VST3. No release date has been announced.
+Rook EQ 1.1.1 is free for Windows, 64-bit VST3.
 
-## Private beta testing
+[Download on Gumroad](https://cwagoner78.gumroad.com/l/rook-eq-testing). Choose the installer or manual VST3 ZIP and follow its README. The installer is unsigned.
 
-[Request beta access](https://cwagoner78.gumroad.com/l/rook-eq-testing).
-
-The Gumroad application collects contact details and test-environment information. Submitting does not guarantee access.
-
-Accepted testers receive private build access and testing instructions. Beta builds are unfinished and currently unsigned. Use copies of projects and keep a stable setup available. Focus on project recall, automation, performance, and DAW compatibility.
+Contact: [clintwagoner.com](https://clintwagoner.com/). Support and fixes are offered as time allows.
 
 ## Send a private problem report
 
 In Rook EQ, choose **Settings → Report a problem**. Describe what happened, what you expected, and how to reproduce it. You can attach a PNG screenshot. The plugin sends your description, screenshot, build/host information, audio settings, and diagnostic excerpts from the current and most recent previous session in the same host. No audio or DAW projects are collected. Review your text and screenshot for private information before sending.
 
-A successful submission displays an **RQ-…** receipt. Failed reports remain available for retry; nothing uploads until you choose Send or Retry. There is no manual log upload step. The plugin automatically rotates and removes old local logs.
+A successful submission displays an **RQ-…** receipt. Failed reports remain available for retry; nothing uploads until you choose Send or Retry. There is no manual log upload step. The plugin rotates and cleans up local logs while it runs. Uploaded reports remain in private storage without automatic expiry. Reporting is subject to service availability and capacity limits. Read the included PRIVACY.txt before sending.
 
 ## Report a bug
 
-Use the in-plugin form for private beta reports. If you want to discuss an issue publicly, [open a bug report](https://github.com/cwagoner78/RookEQ/issues/new?template=bug_report.yml) and include:
+Use the in-plugin form to send diagnostics privately. If you want to discuss an issue publicly, [open a bug report](https://github.com/cwagoner78/RookEQ/issues/new?template=bug_report.yml) and include:
 
 - Rook EQ version or build date.
 - DAW name and version, and Windows version.

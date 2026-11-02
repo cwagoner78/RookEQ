@@ -4,7 +4,7 @@ title: "[Bug] "
 body:
   - type: markdown
     attributes:
-      value: "Private beta testers: use Settings → Report a problem in Rook EQ to send diagnostics privately. This GitHub form creates a public issue."
+      value: "Use Settings → Report a problem in Rook EQ to send diagnostics privately. This GitHub form creates a public issue."
   - type: input
     id: build
     attributes:
