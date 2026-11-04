@@ -2,7 +2,7 @@
 
 Rook EQ 1.1.1 is free for Windows, 64-bit VST3.
 
-[Download on Gumroad](https://cwagoner78.gumroad.com/l/rook-eq-testing). Choose the installer or manual VST3 ZIP and follow its README. The installer is unsigned.
+[Download on Gumroad](https://cwagoner78.gumroad.com/l/rook-eq). Choose the installer or manual VST3 ZIP and follow its README. The installer is unsigned.
 
 Contact: [clintwagoner.com](https://clintwagoner.com/). Support and fixes are offered as time allows.
 

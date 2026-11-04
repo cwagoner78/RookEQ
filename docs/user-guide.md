@@ -4,7 +4,7 @@ This guide covers Rook EQ 1.1.1 for Windows VST3.
 
 ## Getting started
 
-Rook EQ runs in a 64-bit Windows DAW that supports VST3 plugins. [Download the installer or manual VST3 ZIP](https://cwagoner78.gumroad.com/l/rook-eq-testing). Follow the included README, then rescan your DAW's plugin list.
+Rook EQ runs in a 64-bit Windows DAW that supports VST3 plugins. [Download the installer or manual VST3 ZIP](https://cwagoner78.gumroad.com/l/rook-eq). Follow the included README, then rescan your DAW's plugin list.
 
 1. Insert Rook EQ on an audio track or bus.
 2. Play the section you want to work on.

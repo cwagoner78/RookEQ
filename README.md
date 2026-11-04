@@ -1,4 +1,4 @@
-[![Rook EQ by Clint Wagoner, with the Spectral Ribbon artwork and current plugin lettering](assets/rook-eq-brand.jpg)](https://cwagoner78.gumroad.com/l/rook-eq-testing)
+[![Rook EQ by Clint Wagoner, with the Spectral Ribbon artwork and current plugin lettering](assets/rook-eq-brand.jpg)](https://cwagoner78.gumroad.com/l/rook-eq)
 
 # Rook EQ
 
@@ -23,7 +23,7 @@ Shape a track, control a problem frequency, or work on the center and sides of a
 
 **Free for Windows, 64-bit VST3. Version 1.1.1.**
 
-[![Free download](assets/free-download.svg)](https://cwagoner78.gumroad.com/l/rook-eq-testing)
+[![Free download](assets/free-download.svg)](https://cwagoner78.gumroad.com/l/rook-eq)
 
 Choose the Windows installer or the manual VST3 ZIP on Gumroad. Enter $0 to download for free. You can leave an optional payment to support the project.
 
